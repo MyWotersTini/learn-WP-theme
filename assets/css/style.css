@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main .content{
+    max-width:70%;
+    width:100%;
+}
+
+.main .sidebar{
+    max-width:29%;
+    width:100%;
+}
+
+.sidebar-post{
+    margin: 5px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
