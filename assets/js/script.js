@@ -1,1 +1,1 @@
-alert('Qq');
+// alert('Qq');
